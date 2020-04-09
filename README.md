@@ -23,3 +23,6 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 
 ### 2020年4月2日
 王永庆： [Tian, Yonglong, Dilip Krishnan, and Phillip Isola. Contrastive representation distillation. ICLR, 2020.](https://arxiv.org/abs/1910.10699)
+### 2020年4月9号
+张皓彭：[Xiang Lisa Li,Jason Eisner.SpecializingWord Embeddings (for Parsing) by Information Bottleneck.(Emnlp 2019 best paper)](https://arxiv.org/pdf/1910.00163.pdf)
+段雪野：[Bergman L, Hoshen Y. Classification-Based Anomaly Detection for General Data[C]. international conference on learning representations, 2020.]()
