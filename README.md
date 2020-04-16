@@ -26,3 +26,9 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 ### 2020年4月9号
 张皓彭：[Xiang Lisa Li,Jason Eisner.SpecializingWord Embeddings (for Parsing) by Information Bottleneck.(Emnlp 2019 best paper)](https://arxiv.org/pdf/1910.00163.pdf)
 段雪野：[Bergman L, Hoshen Y. Classification-Based Anomaly Detection for General Data[C]. international conference on learning representations, 2020.](https://openreview.net/forum?id=H1lK_lBtvS)
+
+### 2020年4月16日
+
+王永庆：[Kosiorek，Adam和Sabour，Sara和Teh，Yee Whye和Hinton，GeoffreyE。堆叠式胶囊自动编码器。NIPS，2019年。]
+高浩：[Wang H，Sahoo D，Liu C等。使用对抗性网络学习交叉模式嵌入，以烹饪食谱和食物图像[C] // IEEE计算机视觉和模式识别会议的论文集。2019：11572-11581。]
+张皓彭:[Zhenyue Qin1,*, Dongwoo Kim1,2,*, and Tom Gedeon1,RETHINKING SOFTMAX WITH CROSS-ENTROPY:NEURAL NETWORK CLASSIFIER AS MUTUAL INFORMATION ESTIMATOR.arxiv 2019]
