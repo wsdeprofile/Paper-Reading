@@ -37,5 +37,5 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 
 ### 2020年4月23日
 
-段雪野：[Gutiérrez-Gómez，Leonardo，Bovet A和Delvenne JC。多尺度异常检测上归因网络[J] 。2019。]（）
-史伯深：[Feng, Ming-Han et al. “MARINE: Multi-relational Network Embeddings with Relational Proximity and Node Attributes.” WWW (2019).]（）
+段雪野：[Gutiérrez-Gómez，Leonardo，Bovet A和Delvenne JC。多尺度异常检测上归因网络[J] 。2019。]()
+史伯深：[Feng, Ming-Han et al. “MARINE: Multi-relational Network Embeddings with Relational Proximity and Node Attributes.” WWW (2019).]()
