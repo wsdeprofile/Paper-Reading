@@ -40,3 +40,11 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 段雪野：[Gutiérrez-Gómez，Leonardo，Bovet A和Delvenne JC。多尺度异常检测上归因网络[J] 。2019。]()
 
 史伯深：[Feng, Ming-Han et al. “MARINE: Multi-relational Network Embeddings with Relational Proximity and Node Attributes.” WWW (2019).]()
+
+### 2020年4月30日
+
+张皓彭:[Kevin Clark,Minh-Thang Luong,Quoc V.Le,Christopher D.Manning.ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS[C].ICLR, 2020]()
+
+王永庆:[Chetan Kumar, Riazat Ryan and Ming Shao. Adversary for Social Good: Protecting Familial Privacy through Joint Adversarial Attacks. AAAI, 2020.]()
+
+史伯深:[Xiang Li, Chao Wang, Jiwei Tan, Xiaoyi Zeng, Dan Ou, Dan Ou, and Bo Zheng. 2020. Adversarial Multimodal Representation Learning for Click-Through Rate Prediction. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 827–836.](https://doi.org/10.1145/3366423.3380163)
