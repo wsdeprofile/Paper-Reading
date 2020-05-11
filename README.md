@@ -29,22 +29,28 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 
 ### 2020年4月16日
 
-王永庆：[Kosiorek，Adam和Sabour，Sara和Teh，Yee Whye和Hinton，GeoffreyE。堆叠式胶囊自动编码器。NIPS，2019年。]()
+王永庆：[Kosiorek, Adam and Sabour, Sara and Teh, Yee Whye and Hinton, Geoffrey E. Stacked Capsule Autoencoders. NIPS, 2019. ](https://papers.nips.cc/paper/9684-stacked-capsule-autoencoders.pdf)
 
-高浩：[Wang H，Sahoo D，Liu C等。使用对抗性网络学习交叉模式嵌入，以烹饪食谱和食物图像[C] // IEEE计算机视觉和模式识别会议的论文集。2019：11572-11581。]()
+高浩：[Wang H, Sahoo D, Liu C, et al. Learning cross-modal embeddings with adversarial networks for cooking recipes and food images[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 11572-11581.](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf)
 
-张皓彭:[Zhenyue Qin1,*, Dongwoo Kim1,2,*, and Tom Gedeon1,RETHINKING SOFTMAX WITH CROSS-ENTROPY:NEURAL NETWORK CLASSIFIER AS MUTUAL INFORMATION ESTIMATOR.arxiv 2019]()
+张皓彭:[Zhenyue Qin1,*, Dongwoo Kim1,2,*, and Tom Gedeon1,RETHINKING SOFTMAX WITH CROSS-ENTROPY:NEURAL NETWORK CLASSIFIER AS MUTUAL INFORMATION ESTIMATOR.arxiv 2019](https://arxiv.org/pdf/1911.10688.pdf)
 
 ### 2020年4月23日
 
-段雪野：[Gutiérrez-Gómez，Leonardo，Bovet A和Delvenne JC。多尺度异常检测上归因网络[J] 。2019。]()
+段雪野：[Gutiérrez-Gómez, Leonardo, Bovet A , Delvenne J C . Multi-scale Anomaly Detection on Attributed Networks[J]. 2019.](https://arxiv.org/pdf/1912.04144.pdf)
 
-史伯深：[Feng, Ming-Han et al. “MARINE: Multi-relational Network Embeddings with Relational Proximity and Node Attributes.” WWW (2019).]()
+史伯深：[Feng, Ming-Han et al. MARINE: Multi-relational Network Embeddings with Relational Proximity and Node Attributes. WWW (2019).](https://dl.acm.org/doi/pdf/10.1145/3308558.3313715)
 
 ### 2020年4月30日
 
-张皓彭:[Kevin Clark,Minh-Thang Luong,Quoc V.Le,Christopher D.Manning.ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS[C].ICLR, 2020]()
+张皓彭:[Kevin Clark,Minh-Thang Luong,Quoc V.Le,Christopher D.Manning.ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS[C].ICLR, 2020](https://arxiv.org/pdf/2003.10555.pdf)
 
-王永庆:[Chetan Kumar, Riazat Ryan and Ming Shao. Adversary for Social Good: Protecting Familial Privacy through Joint Adversarial Attacks. AAAI, 2020.]()
+王永庆:[Chetan Kumar, Riazat Ryan and Ming Shao. Adversary for Social Good: Protecting Familial Privacy through Joint Adversarial Attacks. AAAI, 2020.](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-KumarC.6891.pdf)
 
 史伯深:[Xiang Li, Chao Wang, Jiwei Tan, Xiaoyi Zeng, Dan Ou, Dan Ou, and Bo Zheng. 2020. Adversarial Multimodal Representation Learning for Click-Through Rate Prediction. In Proceedings of The Web Conference 2020 (WWW ’20). Association for Computing Machinery, New York, NY, USA, 827–836.](https://doi.org/10.1145/3366423.3380163)
+
+### 2020年5月6日
+
+段雪野:[Bhatia S, Hooi B, Yoon M, et al. MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams[C]. national conference on artificial intelligence, 2020.](https://arxiv.org/pdf/1911.04464.pdf)
+
+高浩:[ILIEVSKI, Ilija; FENG, Jiashi. Multimodal learning and reasoning for visual question answering. In: Advances in Neural Information Processing Systems. 2017. p. 551-562.](https://papers.nips.cc/paper/6658-multimodal-learning-and-reasoning-for-visual-question-answering.pdf)
