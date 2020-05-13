@@ -54,3 +54,9 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 段雪野:[Bhatia S, Hooi B, Yoon M, et al. MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams[C]. national conference on artificial intelligence, 2020.](https://arxiv.org/pdf/1911.04464.pdf)
 
 高浩:[ILIEVSKI, Ilija; FENG, Jiashi. Multimodal learning and reasoning for visual question answering. In: Advances in Neural Information Processing Systems. 2017. p. 551-562.](https://papers.nips.cc/paper/6658-multimodal-learning-and-reasoning-for-visual-question-answering.pdf)
+
+### 2020年5月14日
+
+张皓彭:[Wenhan Xiongy, Jingfei Dux, William Yang Wangy, Veselin Stoyanovx.PRETRAINED ENCYCLOPEDIA: WEAKLY SUPERVISED KNOWLEDGE-PRETRAINED LANGUAGE MODEL.ICLR 2020](https://arxiv.org/abs/1912.09637)
+
+高浩:[Hu P, Zhen L, Peng D, et al. Scalable deep multimodal learning for cross-modal retrieval[C]//Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019: 635-644.](https://dl.acm.org/doi/10.1145/3331184.3331213)
