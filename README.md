@@ -60,3 +60,11 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 张皓彭:[Wenhan Xiongy, Jingfei Dux, William Yang Wangy, Veselin Stoyanovx.PRETRAINED ENCYCLOPEDIA: WEAKLY SUPERVISED KNOWLEDGE-PRETRAINED LANGUAGE MODEL.ICLR 2020](https://arxiv.org/abs/1912.09637)
 
 高浩:[Hu P, Zhen L, Peng D, et al. Scalable deep multimodal learning for cross-modal retrieval[C]//Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval. 2019: 635-644.](https://dl.acm.org/doi/10.1145/3331184.3331213)
+
+### 2020年5月21日
+
+段雪野：[Du M, Jia R, Song D, et al. Robust anomaly detection and backdoor attack detection via differential privacy[C]. international conference on learning representations, 2020.]()
+
+史伯深：[Li, M., Gan, T., Liu, M., Cheng, Z., Yin, J., & Nie, L. (2019, November). Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 509-518).]()
+
+王永庆：[YIM, Junho, et al. A gift from knowledge distillation: Fast optimization, network minimization and transfer learning. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017. p. 4133-4141.](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
