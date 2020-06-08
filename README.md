@@ -72,7 +72,8 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 
 张皓彭：[Yu Sun, Shuohuan Wang, Yukun Li, Shikun Feng, Hao Tian, Hua Wu, Haifeng Wang.ERNIE 2.0: A Continual Pre-training Framework for Language Understanding](https://arxiv.org/abs/1907.12412)
 
-###2020年6月4日
+### 2020年6月4日
+
 史伯深：[Li, M., Gan, T., Liu, M., Cheng, Z., Yin, J., & Nie, L. (2019, November). Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 509-518).](https://dl.acm.org/doi/10.1145/3357384.3357912)
 
 段雪野:[Eswaran D , Faloutsos C . SedanSpot: Detecting Anomalies in Edge Streams[C]// IEEE International Conference on Data Mining. IEEE, 2018.](https://dhivyaeswaran.github.io/papers/icdm18-sedanspot.pdf)
