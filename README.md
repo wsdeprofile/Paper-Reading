@@ -77,3 +77,17 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 史伯深：[Li, M., Gan, T., Liu, M., Cheng, Z., Yin, J., & Nie, L. (2019, November). Long-tail Hashtag Recommendation for Micro-videos with Graph Convolutional Network. In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (pp. 509-518).](https://dl.acm.org/doi/10.1145/3357384.3357912)
 
 段雪野:[Eswaran D , Faloutsos C . SedanSpot: Detecting Anomalies in Edge Streams[C]// IEEE International Conference on Data Mining. IEEE, 2018.](https://dhivyaeswaran.github.io/papers/icdm18-sedanspot.pdf)
+
+### 2020年6月11日
+
+高浩：[Longlong Jing, Yingli Tian.Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey.	arXiv:1902.06162](https://arxiv.org/abs/1902.06162)
+
+王永庆：[Juho Lee, Yoonho Lee, Jungtaek Kim, Adam R. Kosiorek, Seungjin Choi, Yee Whye Teh.Set Transformer: A Framework for Attention-based Permutation-Invariant Neural Networks.ICML 2019](https://arxiv.org/abs/1810.00825)
+
+张皓彭：[He Bai, Peng Shi, Jimmy Lin, Luchen Tan, Kun Xiong, Wen Gao, Ming Li.SegaBERT: Pre-training of Segment-aware BERT for Language Understanding.arXiv:2004.14996](https://arxiv.org/abs/2004.14996)
+
+### 2020年6月18日
+
+段雪野：[Perera P, Nallapati R, Xiang B, et al. OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations[C]. computer vision and pattern recognition, 2019: 2898-2906.](https://arxiv.org/abs/1903.08550)
+
+
