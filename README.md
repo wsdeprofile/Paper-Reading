@@ -90,4 +90,6 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 
 段雪野：[Perera P, Nallapati R, Xiang B, et al. OCGAN: One-Class Novelty Detection Using GANs With Constrained Latent Representations[C]. computer vision and pattern recognition, 2019: 2898-2906.](https://arxiv.org/abs/1903.08550)
 
+### 2020年6月28日
 
+王永庆:[Ying Zhang and Tao Xiang and Timothy M. Hospedales and Huchuan Lu. Deep Mutual Learning. CVPR 2018.](https://arxiv.org/abs/1706.00384)
