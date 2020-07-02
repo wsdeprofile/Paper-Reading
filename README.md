@@ -93,3 +93,8 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 ### 2020年6月28日
 
 王永庆:[Ying Zhang and Tao Xiang and Timothy M. Hospedales and Huchuan Lu. Deep Mutual Learning. CVPR 2018.](https://arxiv.org/abs/1706.00384)
+
+
+### 2020年7月2日
+
+段雪野:[Ding K, Li J, Bhanushali R, et al. Deep Anomaly Detection on Attributed Networks.[C]. siam international conference on data mining, 2019: 594-602](https://asu.pure.elsevier.com/en/publications/deep-anomaly-detection-on-attributed-networks)
