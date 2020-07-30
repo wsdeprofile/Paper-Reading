@@ -98,3 +98,9 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 ### 2020年7月2日
 
 段雪野:[Ding K, Li J, Bhanushali R, et al. Deep Anomaly Detection on Attributed Networks.[C]. siam international conference on data mining, 2019: 594-602](https://asu.pure.elsevier.com/en/publications/deep-anomaly-detection-on-attributed-networks)
+
+### 2020年7月30日
+
+段雪野:[Kang B, Xie S, Rohrbach M, et al. Decoupling representation and classifier for long-tailed recognition. ICLR 2020.](https://arxiv.org/pdf/1910.09217.pdf)
+
+史铂深:[Kaixiong Zhou, Qingquan Song, Xiao Huang, Daochen Zha, Na Zou, Xia Hu. Multi-Channel Graph Convolutional Networks. IJCAI 2020.](https://arxiv.org/pdf/1912.08306.pdf)
