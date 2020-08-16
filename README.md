@@ -104,3 +104,9 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 段雪野:[Kang B, Xie S, Rohrbach M, et al. Decoupling representation and classifier for long-tailed recognition. ICLR 2020.](https://arxiv.org/pdf/1910.09217.pdf)
 
 史铂深:[Kaixiong Zhou, Qingquan Song, Xiao Huang, Daochen Zha, Na Zou, Xia Hu. Multi-Channel Graph Convolutional Networks. IJCAI 2020.](https://arxiv.org/pdf/1912.08306.pdf)
+
+### 2020年8月13日
+
+王永庆：[Mukund Sundararajan, Ankur Taly, and Qiqi Yan. 2017. Axiomatic attribution for deep networks. In Proceedings of the 34th International Conference on Machine Learning - Volume 70 (ICML’17). JMLR.org, 3319–3328.](https://arxiv.org/pdf/1703.01365.pdf)
+
+高浩：[Chen H, Yin H, Sun X, et al. Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction. KDD 2020.](https://arxiv.org/pdf/2006.01963.pdf)
