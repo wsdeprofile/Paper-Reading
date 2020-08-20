@@ -110,3 +110,7 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 王永庆：[Mukund Sundararajan, Ankur Taly, and Qiqi Yan. 2017. Axiomatic attribution for deep networks. In Proceedings of the 34th International Conference on Machine Learning - Volume 70 (ICML’17). JMLR.org, 3319–3328.](https://arxiv.org/pdf/1703.01365.pdf)
 
 高浩：[Chen H, Yin H, Sun X, et al. Multi-level Graph Convolutional Networks for Cross-platform Anchor Link Prediction. KDD 2020.](https://arxiv.org/pdf/2006.01963.pdf)
+
+### 2020年8月20日
+
+段雪野:[Chou H P , Chang S C , Pan J Y , et al. Remix: Rebalanced Mixup[J]. 2020. ](https://arxiv.org/abs/2007.03943)
