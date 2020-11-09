@@ -119,4 +119,4 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 
 邵江立:[Jiawei Zhang and Philip S. Yu. 2015. Integrated anchor and social link predictions across social networks. In Proceedings of the 24th International Conference on Artificial Intelligence (IJCAI'15). AAAI Press, 2125–2131.](https://www.ijcai.org/Proceedings/15/Papers/301.pdf)
 
-史铂深:[Yao, Huaxiu & Zhang, Chuxu & Wei, Ying & Jiang, Meng & Wang, Suhang & Huang, Junzhou & Chawla, Nitesh & Li, Zhenhui. (2019). Graph Few-shot Learning via Knowledge Transfer. ](https://arxiv.org/pdf/1910.03053v3.pdf)
+史铂深:[Yao, H. , Zhang, C. , Wei, Y. , Jiang, M. , & Li, Z. . (2020). Graph few-shot learning via knowledge transfer. Proceedings of the AAAI Conference on Artificial Intelligence, 34(4), 6656-6663.](https://arxiv.org/pdf/1910.03053v3.pdf)
