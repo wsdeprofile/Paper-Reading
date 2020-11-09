@@ -114,3 +114,9 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 ### 2020年8月20日
 
 段雪野:[Chou H P , Chang S C , Pan J Y , et al. Remix: Rebalanced Mixup[J]. 2020. ](https://arxiv.org/abs/2007.03943)
+
+### 2020年11月5日
+
+邵江立:[Jiawei Zhang and Philip S. Yu. 2015. Integrated anchor and social link predictions across social networks. In Proceedings of the 24th International Conference on Artificial Intelligence (IJCAI'15). AAAI Press, 2125–2131.](https://www.ijcai.org/Proceedings/15/Papers/301.pdf)
+
+史铂深:[Yao, Huaxiu & Zhang, Chuxu & Wei, Ying & Jiang, Meng & Wang, Suhang & Huang, Junzhou & Chawla, Nitesh & Li, Zhenhui. (2019). Graph Few-shot Learning via Knowledge Transfer. ](https://arxiv.org/pdf/1910.03053v3.pdf)
