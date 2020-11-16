@@ -120,3 +120,9 @@ X Cheng, Z Rao, Y Chen, Q Zhang. CVPR 2020, 2020](https://arxiv.org/abs/2003.036
 邵江立:[Jiawei Zhang and Philip S. Yu. 2015. Integrated anchor and social link predictions across social networks. In Proceedings of the 24th International Conference on Artificial Intelligence (IJCAI'15). AAAI Press, 2125–2131.](https://www.ijcai.org/Proceedings/15/Papers/301.pdf)
 
 史铂深:[Yao, H. , Zhang, C. , Wei, Y. , Jiang, M. , & Li, Z. . (2020). Graph few-shot learning via knowledge transfer. Proceedings of the AAAI Conference on Artificial Intelligence, 34(4), 6656-6663.](https://arxiv.org/pdf/1910.03053v3.pdf)
+
+### 2020年11月12日
+
+高浩:[Lee, Hankook, Sung Ju Hwang, and Jinwoo Shin. 2020. Self-supervised label augmentation via input transformations. In Proceedings of Machine Learning and Systems 2020. pages 3537–3547.](https://arxiv.org/pdf/1910.05872v2.pdf)
+
+
