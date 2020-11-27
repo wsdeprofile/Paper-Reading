@@ -135,5 +135,6 @@ spectral measures. In International Conference on Learning Representations.](htt
 ### 2020年11月26日
 
 史铂深: [Ning Ma, Jiajun Bu, Jieyu Yang, Zhen Zhang, Chengwei Yao, Zhi Yu, Sheng Zhou, and Xifeng Yan. 2020. Adaptive-Step Graph Meta-Learner for Few-Shot Graph Classification. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (CIKM '20). pages 1055–1064.](https://arxiv.org/pdf/2003.08246.pdf) 
+
 [Bose, A. J., Jain, A., Molino, P., & Hamilton, W. L. (2019). Meta-Graph: Few Shot Link Prediction via Meta Learning. arXiv preprint arXiv:1912.09867.](https://arxiv.org/pdf/1912.09867v1.pdf)
 
