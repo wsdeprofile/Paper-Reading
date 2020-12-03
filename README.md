@@ -138,3 +138,8 @@ spectral measures. In International Conference on Learning Representations.](htt
 
 [Bose, A. J., Jain, A., Molino, P., & Hamilton, W. L. (2019). Meta-Graph: Few Shot Link Prediction via Meta Learning. arXiv preprint arXiv:1912.09867.](https://arxiv.org/pdf/1912.09867v1.pdf)
 
+### 2020年12月3日
+
+邵江立: [Li, X., Shang, Y., Cao, Y., Li, Y., Tan, J., & Liu, Y. (2020). Type-Aware Anchor Link Prediction across Heterogeneous Networks Based on Graph Attention Network. Proceedings of the AAAI Conference on Artificial Intelligence, 34(01), 147-155. https://doi.org/10.1609/aaai.v34i01.5345](https://ojs.aaai.org//index.php/AAAI/article/view/5345)
+
+
