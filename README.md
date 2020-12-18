@@ -144,4 +144,9 @@ spectral measures. In International Conference on Learning Representations.](htt
 
 邵江立: [Li, X., Shang, Y., Cao, Y., Li, Y., Tan, J., & Liu, Y. (2020). Type-Aware Anchor Link Prediction across Heterogeneous Networks Based on Graph Attention Network. Proceedings of the AAAI Conference on Artificial Intelligence, 34(01), 147-155. https://doi.org/10.1609/aaai.v34i01.5345](https://ojs.aaai.org//index.php/AAAI/article/view/5345)
 
+### 2020年12月18日
+
+史铂深:[Manasi Vartak, Arvind Thiagarajan, Conrado Miranda, Jeshua Bratman, and Hugo Larochelle. 2017. A meta-learning perspective on cold-start recommendations for items. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). pages 6907–6917.](https://dl.acm.org/doi/pdf/10.5555/3295222.3295434)
+
+邵江立:[Ren, Fuxin, Zhongbao Zhang, Jiawei Zhang, Sen Su, Li Sun, Guozhen Zhu, and Congying Guo. 2020. Banana: when behavior analysis meets social network alignment. In Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20, pages 1438–1444.](https://www.ijcai.org/Proceedings/2020/0200.pdf)
 
