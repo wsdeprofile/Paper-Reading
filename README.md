@@ -12,3 +12,7 @@
 
 史铂深：[Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, and Yisen Wang. 2021. Unlearnable Examples: Making Personal Data Unexploitable. In International Conference on Learning Representations.](https://openreview.net/forum?id=iAmZUo0DxC0)
 
+### 2021年4月1日
+
+王硕：[Wang, Xiang & Huang, Tinglin & Wang, Dingxian & Yuan, Yancheng & Liu, Zhenguang & He, Xiangnan & Chua, Tat-Seng. (2021). Learning Intents behind Interactions with Knowledge Graph for Recommendation. ](https://arxiv.org/pdf/2102.07057.pdf)
+
