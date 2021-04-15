@@ -16,3 +16,9 @@
 
 王硕：[Wang, Xiang & Huang, Tinglin & Wang, Dingxian & Yuan, Yancheng & Liu, Zhenguang & He, Xiangnan & Chua, Tat-Seng. (2021). Learning Intents behind Interactions with Knowledge Graph for Recommendation. ](https://arxiv.org/pdf/2102.07057.pdf)
 
+### 2021年4月15日
+
+高浩：[Yongjun Li, Zhen Zhang, You Peng, Hongzhi Yin, and Quanqing Xu. 2018. Matching user accounts based on user generated content across social networks. Future Generation Computer Systems 83 (2018), 104–115. https://doi.org/10.1016/j.future. 2018.01.041](https://www.sciencedirect.com/science/article/pii/S0167739X17324809)
+
+[Deepesh Kumar Srivastava and Basav Roychoudhury. 2020. Words are important: A textual content based identity resolution scheme across multiple online social networks. Knowledge-Based Systems 195 (2020), 105624. https://doi.org/10.1016/j.knosys.2020.105624](https://www.sciencedirect.com/science/article/pii/S0950705120300885)
+
