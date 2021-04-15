@@ -16,6 +16,10 @@
 
 王硕：[Wang, Xiang & Huang, Tinglin & Wang, Dingxian & Yuan, Yancheng & Liu, Zhenguang & He, Xiangnan & Chua, Tat-Seng. (2021). Learning Intents behind Interactions with Knowledge Graph for Recommendation. ](https://arxiv.org/pdf/2102.07057.pdf)
 
+### 2021年4月8日
+
+邵江立：[Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang, and Tie-Yan Liu. 2018. FRAGE: frequency-agnostic word representation. In Proceedings of the 32nd International Conference on Neural Information Processing Systems (NIPS'18). Curran Associates Inc., Red Hook, NY, USA, 1341–1352.](https://dl.acm.org/doi/pdf/10.5555/3326943.3327066)
+
 ### 2021年4月15日
 
 高浩：[Yongjun Li, Zhen Zhang, You Peng, Hongzhi Yin, and Quanqing Xu. 2018. Matching user accounts based on user generated content across social networks. Future Generation Computer Systems 83 (2018), 104–115. https://doi.org/10.1016/j.future. 2018.01.041](https://www.sciencedirect.com/science/article/pii/S0167739X17324809)
