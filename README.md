@@ -26,3 +26,12 @@
 
 [Deepesh Kumar Srivastava and Basav Roychoudhury. 2020. Words are important: A textual content based identity resolution scheme across multiple online social networks. Knowledge-Based Systems 195 (2020), 105624. https://doi.org/10.1016/j.knosys.2020.105624](https://www.sciencedirect.com/science/article/pii/S0950705120300885)
 
+### 2021年4月22日
+
+史铂深：[Zhao, T., Zhang, X., & Wang, S. (2021, March). GraphSMOTE: Imbalanced Node Classification on Graphs with Graph Neural Networks. In Proceedings of the 14th ACM International Conference on Web Search and Data Mining (pp. 833-841).](https://arxiv.org/pdf/2103.08826.pdf)
+
+### 2021年4月29日
+
+王硕：[Guo, Q., Zhuang, F., Qin, C., Zhu, H., Xie, X., Xiong, H., & He, Q. (2020). A survey on knowledge graph-based recommender systems. IEEE Transactions on Knowledge and Data Engineering.](https://arxiv.org/pdf/2003.00911.pdf)
+
+
