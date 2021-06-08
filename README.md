@@ -34,4 +34,14 @@
 
 王硕：[Guo, Q., Zhuang, F., Qin, C., Zhu, H., Xie, X., Xiong, H., & He, Q. (2020). A survey on knowledge graph-based recommender systems. IEEE Transactions on Knowledge and Data Engineering.](https://arxiv.org/pdf/2003.00911.pdf)
 
+### 2021年5月20日
+
+邵江立：[Wang, D., Wang, P., Liu, K., Zhou, Y., Hughes, C., & Fu, Y. (2021). Reinforced Imitative Graph Representation Learning for Mobile User Profiling: An Adversarial Training Perspective. arXiv preprint arXiv:2101.02634.](https://arxiv.org/pdf/2101.02634.pdf)
+
+### 2021年5月27日,6月3日
+
+算法对抗专题调研：[Akhtar, N., & Mian, A. (2018). Threat of adversarial attacks on deep learning in computer vision: A survey. Ieee Access, 6, 14410-14430.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8294186)
+
+[Chakraborty, A., Alam, M., Dey, V., Chattopadhyay, A., & Mukhopadhyay, D. (2018). Adversarial attacks and defences: A survey. arXiv preprint arXiv:1810.00069.](https://arxiv.org/pdf/1810.00069.pdf)
+
 
