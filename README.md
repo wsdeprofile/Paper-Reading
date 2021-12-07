@@ -44,4 +44,65 @@
 
 [Chakraborty, A., Alam, M., Dey, V., Chattopadhyay, A., & Mukhopadhyay, D. (2018). Adversarial attacks and defences: A survey. arXiv preprint arXiv:1810.00069.](https://arxiv.org/pdf/1810.00069.pdf)
 
+### 2021年6月10日
+高浩: 白盒攻击基本知识
 
+### 2021年6月17日
+邵江立: 黑盒攻击基本知识
+
+### 2021年7月1日
+邵江立: User Identity Linkage 近期工作分享
+
+### 2021年7月8日
+史铂深: 学者画像比赛基本情况分享
+
+### 2021年7月16日
+邵江立: [Zhang, Si, and Hanghang Tong. "Final: Fast attributed network alignment." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2016.](https://dl.acm.org/doi/pdf/10.1145/2939672.2939766)
+
+### 2021年7月22日
+史铂深: [Singh, Rohit, Jinbo Xu, and Bonnie Berger. "Global alignment of multiple protein interaction networks with application to functional orthology detection." Proceedings of the National Academy of Sciences 105.35 (2008): 12763-12768.](https://www.pnas.org/content/pnas/105/35/12763.full.pdf)
+
+[Liao, Chung-Shou, et al. "IsoRankN: spectral methods for global alignment of multiple protein networks." Bioinformatics 25.12 (2009): i253-i258.](https://academic.oup.com/bioinformatics/article/25/12/i253/189039)
+
+### 2021年9月16日
+高浩: [Chen, Liang, et al. "A survey of adversarial learning on graphs." arXiv preprint arXiv:2003.05730 (2020).](https://arxiv.org/pdf/2003.05730.pdf)
+
+### 2021年9月28日
+邵江立: [Gao, Ji, Xiao Huang, and Jundong Li. "Unsupervised Graph Alignment with Wasserstein Distance Discriminator." Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining. 2021.](http://www.cs.virginia.edu/~jg6yd/papers/WAlign.pdf)
+
+### 2021年10月11日
+徐璘珲: [Murphy-Hill, Emerson R., Philip J. Quitslund, and Andrew P. Black. "Removing duplication from java. io: a case study using traits." Companion to the 20th annual ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications. 2005.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.167.9012&rep=rep1&type=pdf)
+
+### 2021年10月15日
+史铂深: [Meng Jiang. 2021. Cross-Network Learning with Partially Aligned Graph Convolutional Networks. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 746–755. DOI:https://doi.org/10.1145/3447548.3467282](https://dl.acm.org/doi/10.1145/3447548.3467282)
+
+### 2021年10月22日
+黄劭: [Dou, Hongjian, et al. "Predicting the popularity of online content with knowledge-enhanced neural networks." ACM KDD. 2018.](https://www.kdd.org/kdd2018/files/deep-learning-day/DLDay18_paper_8.pdf)
+
+邵江立: graph signal 基础知识分享
+
+### 2021年10月28日
+史铂深: cross-network learning for node classification
+
+[Shen, Xiao, et al. "Network together: Node classification via cross-network deep network embedding." IEEE Transactions on Neural Networks and Learning Systems 32.5 (2020): 1935-1948.](https://arxiv.org/ftp/arxiv/papers/1901/1901.07264.pdf)
+
+### 2021年11月4日
+邵江立: [Bojchevski, Aleksandar, and Stephan Günnemann. "Adversarial attacks on node embeddings via graph poisoning." International Conference on Machine Learning. PMLR, 2019.](http://proceedings.mlr.press/v97/bojchevski19a/bojchevski19a.pdf)
+
+### 2021年11月11日
+黄劭: 流行度预测近期工作分享
+
+### 2021年11月18日
+陈国鑫: [Kipf, Thomas, et al. "Neural relational inference for interacting systems." International Conference on Machine Learning. PMLR, 2018.](http://proceedings.mlr.press/v80/kipf18a/kipf18a.pdf)
+
+### 2021年11月25日
+邵江立: 社交网络攻击近期工作介绍
+
+史铂深: 跨网络学习近期工作介绍
+
+### 2021年12月2日
+徐璘珲: 天池数据竞赛,柔性集群调度赛题解决方案分享
+
+黄劭: 流行度预测实验结果及分析
+
+孟剑: [Chung, Tzu-Yuan, Khurshed Ali, and Chih-Yu Wang. "Deep reinforcement learning-based approach to tackle competitive influence maximization." Proc. of MLG workshop. 2019.](http://www.mlgworkshop.org/2019/papers/MLG2019_paper_3.pdf)
