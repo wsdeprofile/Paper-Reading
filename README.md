@@ -106,3 +106,6 @@ Xu Linhui: 天池数据竞赛,柔性集群调度赛题解决方案分享
 Huang Shao: 流行度预测实验结果及分析
 
 Meng Jian: [Chung, Tzu-Yuan, Khurshed Ali, and Chih-Yu Wang. "Deep reinforcement learning-based approach to tackle competitive influence maximization." Proc. of MLG workshop. 2019.](http://www.mlgworkshop.org/2019/papers/MLG2019_paper_3.pdf)
+
+### 2021年12月2日
+Jiangli Shao: [Zhang, Z., Zhang, Z., Zhou, Y., Shen, Y., Jin, R., & Dou, D. (2020). Adversarial attacks on deep graph matching. Advances in Neural Information Processing Systems, 33, 20834-20851.](https://proceedings.neurips.cc/paper/2020/file/ef126722e64e98d1c33933783e52eafc-Paper.pdf)
